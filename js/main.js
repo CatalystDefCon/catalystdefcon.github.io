@@ -5,7 +5,7 @@ jQuery(function($, undefined) {
         }
 
         if (command === 'where') {
-            return term.error('Find us on the Penthouse Level in the Bally\'s');
+            return term.error('Find us on the Penthouse Level in the Bally\'s - Suite 2602.');
         }
 
         if (command === 'why') {
